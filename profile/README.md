@@ -1,4 +1,4 @@
-[![DevCreates Cover](https://i.ibb.co/vzmvTds/mhssb-cover.png)](https://i.ibb.co/9qKPTJ8/about-us-banner.png)
+![DEVCREATES BANNER](https://i.ibb.co/9qKPTJ8/about-us-banner.png)
 
 # ⚒️ DEV CREATES
 
